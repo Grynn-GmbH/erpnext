@@ -8,16 +8,17 @@ He is an MBA graduate of St. Gallen University (Switzerland) and alumnus of MIT 
 
 Grynn is an advocate of using Free and Open Source Software (FOSS).
 
-### Grynss Swiss Meetup Learning Videos
+### Grynss Swiss Videos from Meetup
 ---
 ### Learn How ERPNext Can Supercharge Your Food Manufacturing Startup (ERPNext Switzerland Meetup Hosted By Grynn GmbH)
 [![](http://img.youtube.com/vi/me08XIo4W34/0.jpg)](http://www.youtube.com/watch?v=me08XIo4W34 "Learn How ERPNext Can Supercharge Your Food Manufacturing Startup")
 ---
 
 ### Comming up
-Learn How To Generate a QR Code Bill / QR Code Invoice for FREE (ERPNext Switzerland Meetup Hosted By Grynn GmbH)
-Learn How To Supercharge your Sales Team using ERPNExt  (ERPNext Switzerland Meetup Hosted By Grynn GmbH)
-Learn How to Supercharge your High End Manufacturing
+
+##### Learn How To Generate a QR Code Bill / QR Code Invoice for FREE 
+##### Learn How To Supercharge your Sales Team using ERPNExt  
+##### Learn How to Supercharge your High End Manufacturing
 
 ---
 ### License
@@ -28,6 +29,3 @@ The ERPNext code is licensed as GNU General Public License (v3) and the Document
 ---
 ### Logo and Trademark
 The brand name ERPNext and the logo are trademarks of Frappe Technologies Pvt. Ltd.
-
-
-
