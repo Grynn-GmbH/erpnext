@@ -2,6 +2,12 @@
 
 Grynn GmbH loves and promotes ERPNext in Switzerland, Germany, Eastern Europe and India. 
 
+Founded in 2017 by Deepak Pai in order to help F500 companies with their digital transformation journey. He has 2 decades of IT and Finance & has worked for companies such as Bank of America, Unilever and Ecolab. 
+
+He is an MBA graduate of St. Gallen University (Switzerland) and alumnus of MIT Manipal. He is a certified digital strategist from MIT/Emeritus & consults for F500 companies.
+
+Grynn is an advocate of using Free and Open Source Software (FOSS).
+
 ### Grynss Swiss Meetup Learning Videos
 ---
 ### Learn How ERPNext Can Supercharge Your Food Manufacturing Startup (ERPNext Switzerland Meetup Hosted By Grynn GmbH)
