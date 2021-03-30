@@ -1,8 +1,8 @@
 # ERPNext in Switzerland with Grynn GmbH
 
-## Grynn GmbH loves and promotes ERPNext in Switzerland, Germany, Eastern Europe and India. 
+Grynn GmbH loves and promotes ERPNext in Switzerland, Germany, Eastern Europe and India. 
 
-## Grynss Swiss Meetup Learning Videos
+### Grynss Swiss Meetup Learning Videos
 
 ### Learn How ERPNext Can Supercharge Your Food Manufacturing Startup (ERPNext Switzerland Meetup Hosted By Grynn GmbH)
 [![](http://img.youtube.com/vi/me08XIo4W34/0.jpg)](http://www.youtube.com/watch?v=me08XIo4W34 "Learn How ERPNext Can Supercharge Your Food Manufacturing Startup")
