@@ -5,7 +5,7 @@
         <p>ERP made simple</p>
     </p>
 
-[![Super Charge Your Food Startup using ERPNext](../grynn/assets/Learn How ERPNext Can Supercharge Your Food or Manufacturing Startup.jpg)](https://www.youtube.com/watch?v=me08XIo4W34 "Super Charge your Food Startup!")
+[![Super Charge Your Food Startup using ERPNext](../grynn/assets/Learn How ERPNext Can Supercharge Your Food or Manufacturing Startup.jpg)](https://www.youtube.com/watch?v=me08XIo4W34 "Super Charge your Food Startup!")]
 
 
 [![CI](https://github.com/frappe/erpnext/actions/workflows/ci-tests.yml/badge.svg?branch=develop)](https://github.com/frappe/erpnext/actions/workflows/ci-tests.yml)
