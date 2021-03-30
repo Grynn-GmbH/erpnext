@@ -10,14 +10,14 @@ Grynn is an advocate of using Free and Open Source Software (FOSS).
 
 ### Grynss Swiss Videos from Meetup
 ---
-### Learn How ERPNext Can Supercharge Your Food Manufacturing Startup (ERPNext Switzerland Meetup Hosted By Grynn GmbH)
+### Learn How ERPNext Can Supercharge Your Food Manufacturing Startup (Meetup #1)
 [![](http://img.youtube.com/vi/me08XIo4W34/0.jpg)](http://www.youtube.com/watch?v=me08XIo4W34 "Learn How ERPNext Can Supercharge Your Food Manufacturing Startup")
 ---
 
 ### Comming up
 
 ##### Learn How To Generate a QR Code Bill / QR Code Invoice for FREE 
-##### Learn How To Supercharge your Sales Team using ERPNExt  
+##### Learn How To Supercharge your Sales Team using ERPNext  
 ##### Learn How to Supercharge your High End Manufacturing
 
 ---
