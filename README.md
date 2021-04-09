@@ -21,7 +21,7 @@ Grynn is an advocate of using Free and Open Source Software (FOSS).
 
 ### Comming up
 
-##### Learn How To Generate a QR Code Bill / QR Code Invoice for FREE 
+##### Learn How ERPNext Supercharges your Accounting Team (Meetup #3)
 ##### Learn How To Supercharge your Sales Team using ERPNext  
 ##### Learn How to Supercharge your High End Manufacturing
 
