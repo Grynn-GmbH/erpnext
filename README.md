@@ -12,6 +12,11 @@ Grynn is an advocate of using Free and Open Source Software (FOSS).
 ---
 ### Learn How ERPNext Can Supercharge Your Food Manufacturing Startup (Meetup #1)
 [![](http://img.youtube.com/vi/me08XIo4W34/0.jpg)](http://www.youtube.com/watch?v=me08XIo4W34 "Learn How ERPNext Can Supercharge Your Food Manufacturing Startup")
+
+### Learn How To Use Swiss QR-Bill And Get Paid Faster (Meetup #2)
+[![](http://img.youtube.com/vi/me08XIo4W34/0.jpg)](https://youtu.be/iqwXXd-USV4 "Learn How To Use QR-Bill and Get Paid Faster")
+
+
 ---
 
 ### Comming up
